@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  #photo-list p {
+    margin: 5px 0;
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  #photo-list p:hover {
+    color: darkblue;
+  }
+  
+  #photo-details {
+    margin-top: 20px;
+  }
+  
+  #thumbnail {
+    display: block;
+    margin-top: 10px;
+    max-width: 150px;
+  }
